@@ -1,0 +1,88 @@
+# Benjamin Ghajiga — Generative Engine Optimization Map
+
+> Benjamin Ghajiga is a versatile and accomplished Full-Stack Web Developer, Web3 Developer, and Video Editor based in Abuja, Nigeria, with 4+ years of experience delivering impactful digital solutions. He blends technical depth — spanning React, Node.js, Algorand, Cardano, and Solidity — with creative production skills in Adobe Premiere Pro, After Effects, and DaVinci Resolve. A hackathon winner (2025 Model and I Hackathon) and funded project contributor (Secuda on Cardano), Benjamin has a strong track record of taking products from concept to launch for startups, NGOs, and Web3 ecosystems. His brand communicates innovation, versatility, and a bold creative-technical identity.
+
+---
+
+## Pages
+
+### Home
+https://benjamin-ghajiga-08d3f479.zappy5.app
+Benjamin Ghajiga blends full-stack web development and creative technology to build stunning, high-performance digital solutions. From motion graphics to Web3, launch your next project with a versatile expert.
+
+### Services
+https://benjamin-ghajiga-08d3f479.zappy5.app/services
+Explore cutting-edge services in web user interface design, motion graphics in Adobe After Effects, and Web3 development. Let&#39;s turn your vision into a dynamic, user-focused reality.
+
+### Work
+https://benjamin-ghajiga-08d3f479.zappy5.app/work
+Dive into a portfolio where adobe after effects motion graphics meet award-winning web apps. Discover projects for startups, NGOs, and Web3 ecosystems that deliver real impact.
+
+### About
+https://benjamin-ghajiga-08d3f479.zappy5.app/about
+Meet Benjamin Ghajiga: a full-stack developer and video editor with 4+ years crafting code and motion graphics in Adobe After Effects. See the story behind the innovation.
+
+### Contact
+https://benjamin-ghajiga-08d3f479.zappy5.app/contact
+Ready to elevate your web user interface design or produce stunning motion graphics? Contact Benjamin Ghajiga today and let&#39;s build something extraordinary together.
+
+### Thank You
+https://benjamin-ghajiga-08d3f479.zappy5.app/thank-you
+Benjamin Ghajiga - Thank You
+
+## Legal & Policy
+
+### Privacy Policy
+https://benjamin-ghajiga-08d3f479.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://benjamin-ghajiga-08d3f479.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://benjamin-ghajiga-08d3f479.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://benjamin-ghajiga-08d3f479.zappy5.app/contact
+- Endpoint: https://benjamin-ghajiga-08d3f479.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Benjamin Ghajiga
+Benjamin Ghajiga is a versatile and accomplished Full-Stack Web Developer, Web3 Developer, and Video Editor based in Abuja, Nigeria, with 4+ years of experience delivering impactful digital solutions. He blends technical depth — spanning React, Node.js, Algorand, Cardano, and Solidity — with creative production skills in Adobe Premiere Pro, After Effects, and DaVinci Resolve. A hackathon winner (2025 Model and I Hackathon) and funded project contributor (Secuda on Cardano), Benjamin has a strong track record of taking products from concept to launch for startups, NGOs, and Web3 ecosystems. His brand communicates innovation, versatility, and a bold creative-technical identity.
+
+## Target Audience
+- Startups, NGOs, Web3 projects, businesses seeking full-stack development, blockchain solutions, and video production
+- Blockchain Startups
+- NGO Technology Leaders
+- Web3 Enthusiasts
+- Motion Design & Animation
+
+## Industry
+Web Development & Creative Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://benjamin-ghajiga-08d3f479.zappy5.app/sitemap.xml
+- Robots: https://benjamin-ghajiga-08d3f479.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://benjamin-ghajiga-08d3f479.zappy5.app/llms-full.txt
