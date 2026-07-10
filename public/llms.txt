@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://example.com
+https://benjamin-ghajiga.zappy5.app
 Benjamin Ghajiga blends full-stack web development and creative technology to build stunning, high-performance digital solutions. From motion graphics to Web3, launch your next project with a versatile expert.
 
 ### Services
-https://example.com/services
+https://benjamin-ghajiga.zappy5.app/services
 Explore cutting-edge services in web user interface design, motion graphics in Adobe After Effects, and Web3 development. Let&#39;s turn your vision into a dynamic, user-focused reality.
 
 ### Work
-https://example.com/work
+https://benjamin-ghajiga.zappy5.app/work
 Dive into a portfolio where adobe after effects motion graphics meet award-winning web apps. Discover projects for startups, NGOs, and Web3 ecosystems that deliver real impact.
 
 ### About
-https://example.com/about
+https://benjamin-ghajiga.zappy5.app/about
 Meet Benjamin Ghajiga: a full-stack developer and video editor with 4+ years crafting code and motion graphics in Adobe After Effects. See the story behind the innovation.
 
 ### Contact
-https://example.com/contact
+https://benjamin-ghajiga.zappy5.app/contact
 Ready to elevate your web user interface design or produce stunning motion graphics? Contact Benjamin Ghajiga today and let&#39;s build something extraordinary together.
 
 ### Thank You
-https://example.com/thank-you
+https://benjamin-ghajiga.zappy5.app/thank-you
 Benjamin Ghajiga - Thank You
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://benjamin-ghajiga.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://benjamin-ghajiga.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://benjamin-ghajiga.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,8 +54,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Abuja, Nigeria
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://benjamin-ghajiga.zappy5.app/contact
+- Endpoint: https://benjamin-ghajiga.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Web Development & Creative Technology
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://benjamin-ghajiga.zappy5.app/sitemap.xml
+- Robots: https://benjamin-ghajiga.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://benjamin-ghajiga.zappy5.app/llms-full.txt

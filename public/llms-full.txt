@@ -2,13 +2,13 @@
 
 Benjamin Ghajiga is a versatile and accomplished Full-Stack Web Developer, Web3 Developer, and Video Editor based in Abuja, Nigeria, with 4+ years of experience delivering impactful digital solutions. He blends technical depth — spanning React, Node.js, Algorand, Cardano, and Solidity — with creative production skills in Adobe Premiere Pro, After Effects, and DaVinci Resolve. A hackathon winner (2025 Model and I Hackathon) and funded project contributor (Secuda on Cardano), Benjamin has a strong track record of taking products from concept to launch for startups, NGOs, and Web3 ecosystems. His brand communicates innovation, versatility, and a bold creative-technical identity.
 
-Source: https://example.com
+Source: https://benjamin-ghajiga.zappy5.app
 
 ---
 
 ## Crafting Bold Digital Experiences — Benjamin Ghajiga
 
-URL: https://example.com
+URL: https://benjamin-ghajiga.zappy5.app
 Description: Benjamin Ghajiga blends full-stack web development and creative technology to build stunning, high-performance digital solutions. From motion graphics to Web3, launch your next project with a versatile expert.
 
 Crafting Bold Digital Experiences — Benjamin Ghajiga
@@ -535,7 +535,7 @@ Accessibility
 
 ## Build, Animate, Innovate: Services — Benjamin Ghajiga
 
-URL: https://example.com/services
+URL: https://benjamin-ghajiga.zappy5.app/services
 Description: Explore cutting-edge services in web user interface design, motion graphics in Adobe After Effects, and Web3 development. Let&#39;s turn your vision into a dynamic, user-focused reality.
 
 Build, Animate, Innovate: Services — Benjamin Ghajiga
@@ -996,7 +996,7 @@ Accessibility
 
 ## See the Work That Wins Hackathons — Benjamin Ghajiga
 
-URL: https://example.com/work
+URL: https://benjamin-ghajiga.zappy5.app/work
 Description: Dive into a portfolio where adobe after effects motion graphics meet award-winning web apps. Discover projects for startups, NGOs, and Web3 ecosystems that deliver real impact.
 
 See the Work That Wins Hackathons — Benjamin Ghajiga
@@ -1566,7 +1566,7 @@ Accessibility
 
 ## The Dev Who Edits the Future — Benjamin Ghajiga
 
-URL: https://example.com/about
+URL: https://benjamin-ghajiga.zappy5.app/about
 Description: Meet Benjamin Ghajiga: a full-stack developer and video editor with 4+ years crafting code and motion graphics in Adobe After Effects. See the story behind the innovation.
 
 The Dev Who Edits the Future — Benjamin Ghajiga
@@ -2045,7 +2045,7 @@ Accessibility
 
 ## Start Your Next Breakthrough Here — Benjamin Ghajiga
 
-URL: https://example.com/contact
+URL: https://benjamin-ghajiga.zappy5.app/contact
 Description: Ready to elevate your web user interface design or produce stunning motion graphics? Contact Benjamin Ghajiga today and let&#39;s build something extraordinary together.
 
 Start Your Next Breakthrough Here — Benjamin Ghajiga
@@ -2468,7 +2468,7 @@ Accessibility
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://benjamin-ghajiga.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -2727,7 +2727,7 @@ Accessibility
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://benjamin-ghajiga.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -2992,7 +2992,7 @@ Accessibility
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://benjamin-ghajiga.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -3279,7 +3279,7 @@ Accessibility
 
 ## Thank You
 
-URL: https://example.com/thank-you
+URL: https://benjamin-ghajiga.zappy5.app/thank-you
 Description: Benjamin Ghajiga - Thank You
 
 Thank You
