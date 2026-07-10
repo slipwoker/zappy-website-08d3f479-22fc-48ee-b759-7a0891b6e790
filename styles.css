@@ -2608,7 +2608,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-capabilities-section__container {
-  max-width: 1200px;
+  max-width: 1080px;
   margin: 0 auto;
   position: relative;
   z-index: 2;
@@ -2798,7 +2798,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-stats-section__container {
-  max-width: 1200px;
+  max-width: 1080px;
   margin: 0 auto;
   text-align: center;
   position: relative;
@@ -2942,7 +2942,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-showcase-section__container {
-  max-width: 1200px;
+  max-width: 1080px;
   margin: 0 auto;
   position: relative;
   z-index: 1;
@@ -3204,7 +3204,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-cta-section-container {
-  max-width: 1200px;
+  max-width: 1080px;
   margin: 0 auto;
   position: relative;
   z-index: 1;
@@ -8148,6 +8148,8 @@ nav.navbar .sub-menu li a:hover { color: #1A73E8 !important; background-color: r
   }
 }
 /* === NAVBAR STYLE OVERRIDES END === */
+/* Batch: Reduce hero overlay max-width on all pages */
+.home-hero-section .hero-overlay { max-width: 1080px; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
