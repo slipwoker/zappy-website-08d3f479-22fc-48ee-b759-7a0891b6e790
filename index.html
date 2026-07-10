@@ -838,12 +838,12 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="100">
   <!-- Full-bleed background image -->
-  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Cinematic developer workspace in Abuja evening light: open laptop with code editor and blockchain-node diagrams on screen, video-editing timeline glow, warm orange desk accents, soft bokeh background" width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Benjamin Ghajiga's developer workspace with code and video editing tools" class="hero-bg-image" decoding="async">
+  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="Cinematic developer workspace in Abuja evening light: open laptop with code editor and blockchain-node diagrams on screen, video-editing timeline glow, warm orange desk accents, soft bokeh background" width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Benjamin Ghajiga's developer workspace with code and video editing tools" class="hero-bg-image" data-hero-background="true" data-element-type="image" data-element-id="img-1783713890947-pnik684cq" style="pointer-events: auto !important; object-position: 50% 50% !important;" data-zappy-hero-img-base-opacity="1" data-zappy-hero-img-base-blend="normal" data-zappy-object-position="50% 50%" data-zappy-zoom="1" decoding="async">
 
   <!-- Scrim overlay for text legibility -->
-  <div class="hero-scrim" aria-hidden="true"></div>
+  <div class="hero-scrim" aria-hidden="true" data-zappy-scrim-base-opacity="92" data-zappy-gradient-scrim="true" style="opacity: 1;"></div>
 
   <!-- Decorative Web3 wireframe cube (behind content) -->
   <div class="hero-decor-cube" aria-hidden="true">
@@ -859,9 +859,9 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   <div class="hero-overlay">
     <div class="hero-content">
       <!-- Status chip -->
-      <span class="hero-status-chip">Abuja, Nigeria • Available for full-stack, Web3, and video projects</span>
+      <p class="zappy-editable"><span class="hero-status-chip">Abuja, Nigeria • Available for full-stack, Web3, and video projects</span>
 
-      <!-- H1 main headline -->
+      </p><!-- H1 main headline -->
       <h1 class="hero-headline">Benjamin Ghajiga</h1>
 
       <!-- H3 role subtitle -->
@@ -872,8 +872,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 
       <!-- CTA buttons -->
       <div class="hero-ctas">
-        <a href="#contact" class="btn-primary">Start a project</a>
-        <a href="#case-studies" class="btn-secondary">View case studies</a>
+        <a href="#contact" class="btn-primary" data-element-type="button" data-element-id="btn-1783713890947-h168i8x9k" data-native-element="true">Start a project</a>
+        <a href="#case-studies" class="btn-secondary" data-element-type="button" data-element-id="btn-1783713890947-cgqxh0l04" data-native-element="true">View case studies</a>
       </div>
     </div>
   </div>
@@ -916,13 +916,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
               <span class="home-capabilities-section__chip-icon" aria-hidden="true">
                 <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5"></circle><path d="M5 8l2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
               </span>
-              <span class="home-capabilities-section__chip-text">Hackathon winner 2025</span>
+              <span class="home-capabilities-section__chip-text" style="">Hackathon winner 2025</span>
             </div>
             <div class="home-capabilities-section__chip">
               <span class="home-capabilities-section__chip-icon" aria-hidden="true">
                 <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5"></circle><path d="M5 8l2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
               </span>
-              <span class="home-capabilities-section__chip-text">Model &amp; I Hackathon</span>
+              <span class="home-capabilities-section__chip-text" style="">Model &amp; I Hackathon</span>
             </div>
           </div>
         </div>
@@ -950,7 +950,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
             <div class="home-capabilities-section__module-icon-wrapper">
               <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" stroke="var(--primary)" stroke-width="1.5" stroke-linejoin="round"></path></svg>
             </div>
-            <h3 class="home-capabilities-section__module-title">Video Editing</h3>
+            <h3 class="home-capabilities-section__module-title" style="">Video Editing</h3>
           </div>
         </div>
       </div>
@@ -980,7 +980,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <p class="home-stats-section__card-label">Model and I Hackathon winner</p>
       </div>
       
-      <div class="home-stats-section__card" data-grid-item-index="2">
+      <div class="home-stats-section__card" data-grid-item-index="2" style="">
         <span class="home-stats-section__card-status" style="background: var(--primary);"></span>
         <p class="home-stats-section__card-metric">End-to-end</p>
         <p class="home-stats-section__card-label">Delivery from concept to launch</p>
@@ -1006,7 +1006,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     
     <!-- Section Header -->
     <div class="home-showcase-section__header">
-      <h2 class="home-showcase-section__title">Selected Projects</h2>
+      <h2 class="home-showcase-section__title" style="">Selected Projects</h2>
       <p class="home-showcase-section__subtitle">A glimpse into recent work spanning full-stack web applications, Web3 platforms, and creative video production.</p>
       <div class="home-showcase-section__accent-line" aria-hidden="true"></div>
     </div>
@@ -1031,7 +1031,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <div class="home-showcase-section__card-body">
           <p><span class="home-showcase-section__card-tag">Web3 · Cardano</span>
-          </p><h3 class="home-showcase-section__card-title">Archive3</h3>
+          </p><h3 class="home-showcase-section__card-title" style="">Archive3</h3>
           <p class="home-showcase-section__card-desc">A secure on-chain data storage platform built on Cardano, designed to bring trust and transparency to sensitive information management.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Frontend Architecture</li>
@@ -1059,7 +1059,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <div class="home-showcase-section__card-body">
           <p><span class="home-showcase-section__card-tag">Web3 · Crowdfunding</span>
-          </p><h3 class="home-showcase-section__card-title">Web3 bank</h3>
+          </p><h3 class="home-showcase-section__card-title" style="">Web3 bank</h3>
           <p class="home-showcase-section__card-desc">A Web3 crowdfunding platform empowering scientific research through decentralized donations and transparent project discovery.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Donation Flow Design</li>
@@ -1086,8 +1086,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
           </div>
         </div>
         <div class="home-showcase-section__card-body">
-          <p><span class="home-showcase-section__card-tag">Hackathon · Winner 2025</span>
-          </p><h3 class="home-showcase-section__card-title">Model &amp; I Hackathon</h3>
+          <p style=""><span class="home-showcase-section__card-tag">Hackathon · Winner 2025</span>
+          </p><h3 class="home-showcase-section__card-title" style="">Model &amp; I Hackathon</h3>
           <p class="home-showcase-section__card-desc">The winning 2025 submission combining rapid product development, Web3 integration, and compelling promotional video content.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Product Build</li>
@@ -1213,8 +1213,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <div class="footer-grid">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/benjamin-ghajiga-web-development-creative-technology-logo.webp" alt="Benjamin Ghajiga" class="logo" data-element-type="image" data-element-id="img-1783699749198-iyoxtwku0" data-zappy-footer-image="true" decoding="async" width="35" height="35">
-        <p class="company-blurb">Full-stack development, Web3 engineering, and creative technology&nbsp; streamlined for your next project.</p>
+        <img src="/assets/benjamin-ghajiga-web-development-creative-technology-logo.webp" alt="Benjamin Ghajiga" class="logo" data-element-type="image" data-element-id="img-1783699749198-iyoxtwku0" data-zappy-footer-image="true" style="" decoding="async" width="35" height="35">
+        <p class="company-blurb" style="">Full-stack development, Web3 engineering, and creative technology&nbsp; streamlined for your next project.</p>
       </div>
 
       <!-- Quick Links -->
@@ -1277,7 +1277,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       <div class="footer-copyright">
         <span>© 2026 Benjamin Ghajiga. All rights reserved.</span>
       </div>
-      <div class="footer-attribution"></div>
+      <div class="footer-attribution" style=""></div>
     </div>
   </div>
 </footer>
