@@ -293,33 +293,6 @@ A secure on-chain data storage platform built on Cardano, designed to bring trus
 
 
 
-Web3 · Crowdfunding
-
-### Web3 bank
-
-
-A Web3 crowdfunding platform empowering scientific research through decentralized donations and transparent project discovery.
-
-
-- Donation Flow Design
-
-- Project Discovery
-
-- Web3 Interactions
-
-- Demo Content Production
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
