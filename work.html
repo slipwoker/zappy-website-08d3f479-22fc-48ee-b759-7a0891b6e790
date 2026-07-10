@@ -836,7 +836,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 </script>
   
   <main id="main">
-    <section class="work-intro-section" data-layout-spec="Work-intro">
+    <section class="work-intro-section" data-layout-spec="Work-intro" id="work-intro-section">
   <div class="work-intro-section__container">
     <div class="work-intro-section__content">
       <h1 class="work-intro-section__title">Selected work and achievements</h1>
@@ -848,11 +848,11 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
           </span>
           <span class="work-intro-section__chip-text">Winner — Model and I Hackathon 2025</span>
         </div>
-        <div class="work-intro-section__chip">
+        <div class="work-intro-section__chip" style="">
           <span class="work-intro-section__chip-icon" aria-hidden="true">
-            <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="cursor: pointer;"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
           </span>
-          <span class="work-intro-section__chip-text">Funded — Secuda on Cardano 2024</span>
+          <span class="work-intro-section__chip-text" style="">Funded Archive3 on Stacks 2026</span>
         </div>
         <div class="work-intro-section__chip">
           <span class="work-intro-section__chip-icon" aria-hidden="true">
@@ -871,7 +871,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   </div>
 </section>
 
-<section class="work-case-studies-section" data-layout-spec="Work-case-studies">
+<section class="work-case-studies-section" data-layout-spec="Work-case-studies" id="work-case-studies-section">
   <div class="work-case-studies-section__container">
     <div class="work-case-studies-section__header">
       <h2 class="work-case-studies-section__title">Featured Case Studies</h2>
@@ -881,13 +881,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <div class="work-case-studies-section__list">
       
       <!-- Case Study 1: Secuda -->
-      <article class="work-case-studies-section__card">
+      <article class="work-case-studies-section__card" data-grid-item-index="0">
         <div class="work-case-studies-section__card-content">
           <div class="work-case-studies-section__card-meta">
             <span class="work-case-studies-section__badge">Web3</span>
             <span class="work-case-studies-section__badge work-case-studies-section__badge--secondary">Cardano</span>
           </div>
-          <h3 class="work-case-studies-section__card-title">Secuda</h3>
+          <h3 class="work-case-studies-section__card-title" style="">Archive 3</h3>
           <p class="work-case-studies-section__card-role"><strong>Role:</strong> Lead Developer &amp; Designer</p>
           <div class="work-case-studies-section__card-details">
             <div class="work-case-studies-section__detail-block">
@@ -905,13 +905,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
           </div>
         </div>
         <div class="work-case-studies-section__card-media">
-          <img loading="lazy" fetchpriority="low" data-placeholder="work-case-studies-image-1" data-context="A clean, dark-themed app preview mockup showing a secure data storage dashboard interface on a laptop screen, with subtle Cardano blockchain branding elements and a professional, minimalist design aesthetic." width="600" height="400" src="/assets/site-work-case-studies-image-1.webp" alt="Secuda platform dashboard preview" class="work-case-studies-section__card-image" decoding="async">
+          <img loading="lazy" fetchpriority="low" data-placeholder="work-case-studies-image-1" data-context="A clean, dark-themed app preview mockup showing a secure data storage dashboard interface on a laptop screen, with subtle Cardano blockchain branding elements and a professional, minimalist design aesthetic." width="600" height="400" src="/assets/site-work-case-studies-image-1.webp" alt="Secuda platform dashboard preview" class="work-case-studies-section__card-image" data-element-type="image" data-element-id="img-1783700694683-yjk7ol6oq" decoding="async">
           <div class="work-case-studies-section__card-image-accent"></div>
         </div>
       </article>
 
       <!-- Case Study 2: Faundlab -->
-      <article class="work-case-studies-section__card">
+      <article class="work-case-studies-section__card" data-grid-item-index="1">
         <div class="work-case-studies-section__card-content">
           <div class="work-case-studies-section__card-meta">
             <span class="work-case-studies-section__badge">Web3</span>
@@ -935,16 +935,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
           </div>
         </div>
         <div class="work-case-studies-section__card-media">
-          <img loading="lazy" decoding="async" data-placeholder="work-case-studies-image-2" data-context="A modern web application interface mockup for a scientific crowdfunding platform, featuring project cards, a donation progress bar, and a clean, research-oriented design with subtle Web3 elements." width="600" height="400" src="/assets/site-work-case-studies-image-2.webp" alt="Faundlab crowdfunding platform preview" class="work-case-studies-section__card-image" fetchpriority="low">
+          <img loading="lazy" decoding="async" data-placeholder="work-case-studies-image-2" data-context="A modern web application interface mockup for a scientific crowdfunding platform, featuring project cards, a donation progress bar, and a clean, research-oriented design with subtle Web3 elements." width="600" height="400" src="/assets/site-work-case-studies-image-2.webp" alt="Faundlab crowdfunding platform preview" class="work-case-studies-section__card-image" data-element-type="image" data-element-id="img-1783700694683-bj49yn9tu" fetchpriority="low">
           <div class="work-case-studies-section__card-image-accent"></div>
         </div>
       </article>
 
       <!-- Case Study 3: Model and I Hackathon -->
-      <article class="work-case-studies-section__card">
+      <article class="work-case-studies-section__card" data-grid-item-index="2">
         <div class="work-case-studies-section__card-content">
           <div class="work-case-studies-section__card-meta">
-            <span class="work-case-studies-section__badge work-case-studies-section__badge--accent">Hackathon Winner</span>
+            <span class="work-case-studies-section__badge work-case-studies-section__badge--accent" style="color: rgb(32, 33, 36) !important;">Hackathon Winner</span>
             <span class="work-case-studies-section__badge work-case-studies-section__badge--secondary">2025</span>
           </div>
           <h3 class="work-case-studies-section__card-title">Model and I Hackathon</h3>
@@ -965,7 +965,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
           </div>
         </div>
         <div class="work-case-studies-section__card-media">
-          <img loading="lazy" decoding="async" data-placeholder="work-case-studies-image-3" data-context="A vibrant hackathon presentation scene with a laptop displaying code and a Web3 interface, overlaid with a winner badge graphic, conveying energy, innovation, and technical achievement." width="600" height="400" src="/assets/site-work-case-studies-image-3.webp" alt="Model and I Hackathon winning project preview" class="work-case-studies-section__card-image" fetchpriority="low">
+          <img loading="lazy" decoding="async" data-placeholder="work-case-studies-image-3" data-context="A vibrant hackathon presentation scene with a laptop displaying code and a Web3 interface, overlaid with a winner badge graphic, conveying energy, innovation, and technical achievement." width="600" height="400" src="/assets/site-work-case-studies-image-3.webp" alt="Model and I Hackathon winning project preview" class="work-case-studies-section__card-image" data-element-type="image" data-element-id="img-1783700694683-bon272576" fetchpriority="low">
           <div class="work-case-studies-section__card-image-accent"></div>
         </div>
       </article>
@@ -1166,8 +1166,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <div class="footer-grid">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/benjamin-ghajiga-web-development-creative-technology-logo.webp" alt="Benjamin Ghajiga" class="logo" decoding="async" width="35" height="35">
-        <p class="company-blurb">Full-stack development, Web3 engineering, and creative technology — streamlined for your next project.</p>
+        <img src="/assets/benjamin-ghajiga-web-development-creative-technology-logo.webp" alt="Benjamin Ghajiga" class="logo" data-element-type="image" data-element-id="img-1783699749198-iyoxtwku0" data-zappy-footer-image="true" style="" decoding="async" width="35" height="35">
+        <p class="company-blurb" style="">Full-stack development, Web3 engineering, and creative technology&nbsp; streamlined for your next project.</p>
       </div>
 
       <!-- Quick Links -->
@@ -1187,11 +1187,11 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <h4>Contact</h4>
         <ul class="footer-contact">
           <li>
-            <span class="contact-icon"><i class="fas fa-envelope"></i></span>
+            <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1783699749198-38d4zpvk7" data-icon-type="fontawesome"></i></span>
             <span class="contact-text"><a href="mailto:bghajiga@gmail.com">bghajiga@gmail.com</a></span>
           </li>
           <li>
-            <span class="contact-icon"><i class="fas fa-phone"></i></span>
+            <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1783699749198-63leid8b1" data-icon-type="fontawesome"></i></span>
             <span class="contact-text"><a href="tel:+2347035319985">+2347035319985</a></span>
           </li>
           <li><a href="https://www.google.com/maps/search/?api=1&amp;query=Abuja%2C%20Nigeria" target="_blank" rel="noopener noreferrer"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
@@ -1211,9 +1211,8 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <h4>Follow Us</h4>
         <div class="footer-social">
           <a href="https://facebook.com/benjaminghajiga" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
-          <a href="https://instagram.com/ben_tech___" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
-          <a href="https://twitter.com/Benjaminghajiga" aria-label="Twitter" data-element-id="element-ai-1783699709890-x8k2m9" data-element-type="social-link"><i class="fab fa-twitter"></i></a>
-          <a href="https://linkedin.com/company/benjaminghajiga" aria-label="LinkedIn" data-element-id="element-ai-1783699709890-m4p7q3" data-element-type="social-link"><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://instagram.com/ben_tech___" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1783699749198-ktrii7x0h" data-icon-type="fontawesome"></i></a>
+          <a href="https://twitter.com/Benjaminghajiga" aria-label="Twitter" data-element-id="element-ai-1783699709689-x8k2m9" data-element-type="social-link"><i class="fab fa-twitter" data-element-type="icon" data-element-id="icon-1783699749198-smb5sw8qy" data-icon-type="fontawesome"></i></a>
           <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true" style="display:none !important;"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
@@ -1231,9 +1230,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       <div class="footer-copyright">
         <span>© 2026 Benjamin Ghajiga. All rights reserved.</span>
       </div>
-      <div class="footer-attribution">
-        <a href="https://zappy5.com" target="_blank" class="zappy-attribution">Generated by Zappy</a>
-      </div>
+      <div class="footer-attribution" style=""></div>
     </div>
   </div>
 </footer>
