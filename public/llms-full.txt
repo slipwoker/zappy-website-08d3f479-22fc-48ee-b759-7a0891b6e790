@@ -295,7 +295,7 @@ A secure on-chain data storage platform built on Cardano, designed to bring trus
 
 Web3 · Crowdfunding
 
-### Faundlab
+### Web3 bank
 
 
 A Web3 crowdfunding platform empowering scientific research through decentralized donations and transparent project discovery.
@@ -406,6 +406,7 @@ Web3 credentials
 
 
 
+
 Project type
 
 
@@ -416,10 +417,12 @@ Web Application / dApp
 
 
 
+
 Timeline
 
 
 3 - 6 weeks
+
 
 
 
@@ -482,11 +485,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -496,13 +499,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -510,6 +509,7 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
 
 
 
@@ -948,11 +948,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -962,13 +962,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -976,6 +972,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -1523,11 +1521,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -1537,13 +1535,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1551,6 +1545,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -1652,10 +1648,7 @@ Contact
 
 Abuja, Nigeria
 
-
-
-Available for Projects
-
+Abuja, Nigeria
 
 
 
@@ -2010,11 +2003,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -2024,13 +2017,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2038,6 +2027,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -2439,11 +2430,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -2453,13 +2444,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2467,6 +2454,7 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
 
 
 
@@ -2499,7 +2487,6 @@ URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
-
 
 
 
@@ -2651,11 +2638,11 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Company: Benjamin Ghajiga
 
-- Email: [business_email]
+- Email: bghajiga@gmail.com
 
-- Phone: [business_phone]
+- Phone: +2347035319985
 
-- Address: [business_address]
+- Address: Abuja, Nigeria
 
 
 
@@ -2704,11 +2691,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -2718,13 +2705,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2732,6 +2715,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -2764,7 +2749,6 @@ URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
-
 
 
 
@@ -2924,9 +2908,9 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Company: Benjamin Ghajiga
 
-- Email: [business_email]
+- Email: bghajiga@gmail.com
 
-- Phone: [business_phone]
+- Phone: +2347035319985
 
 
 
@@ -2975,11 +2959,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -2989,13 +2973,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -3003,6 +2983,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -3035,7 +3017,6 @@ URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
-
 
 
 
@@ -3218,11 +3199,11 @@ For questions or clarifications regarding the terms of use:
 
 - Company: Benjamin Ghajiga
 
-- Email: [business_email]
+- Email: bghajiga@gmail.com
 
-- Phone: [business_phone]
+- Phone: +2347035319985
 
-- Address: [business_address]
+- Address: Abuja, Nigeria
 
 
 
@@ -3268,11 +3249,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -3282,13 +3263,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -3296,6 +3273,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 
@@ -3468,11 +3447,11 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 #### Contact
 
 
-- [business_email]
+- bghajiga@gmail.com
 
-- [business_phone]
+- +2347035319985
 
-- [business_address]
+- Abuja, Nigeria
 
 
 
@@ -3482,13 +3461,9 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -3496,6 +3471,8 @@ Full-stack development, Web3 engineering, and creative technology — streamline
 
 
 #### Follow Us
+
+
 
 
 

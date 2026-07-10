@@ -361,7 +361,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     </svg>
   </button>
   
-  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+  <button class="phone-header-btn" data-phone="+2347035319985" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -820,7 +820,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '+2347035319985';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -915,13 +915,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
               <span class="home-capabilities-section__chip-icon" aria-hidden="true">
                 <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5"></circle><path d="M5 8l2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
               </span>
-              <span class="home-capabilities-section__chip-text" style="">Hackathon winner 2025</span>
+              <span class="home-capabilities-section__chip-text">Hackathon winner 2025</span>
             </div>
             <div class="home-capabilities-section__chip">
               <span class="home-capabilities-section__chip-icon" aria-hidden="true">
                 <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5"></circle><path d="M5 8l2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
               </span>
-              <span class="home-capabilities-section__chip-text" style="">Model &amp; I Hackathon</span>
+              <span class="home-capabilities-section__chip-text">Model &amp; I Hackathon</span>
             </div>
           </div>
         </div>
@@ -949,7 +949,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
             <div class="home-capabilities-section__module-icon-wrapper">
               <svg data-element-type="icon" data-icon-type="svg" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" stroke="var(--primary)" stroke-width="1.5" stroke-linejoin="round"></path></svg>
             </div>
-            <h3 class="home-capabilities-section__module-title" style="">Video Editing</h3>
+            <h3 class="home-capabilities-section__module-title">Video Editing</h3>
           </div>
         </div>
       </div>
@@ -979,7 +979,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <p class="home-stats-section__card-label">Model and I Hackathon winner</p>
       </div>
       
-      <div class="home-stats-section__card" data-grid-item-index="2" style="">
+      <div class="home-stats-section__card" data-grid-item-index="2">
         <span class="home-stats-section__card-status" style="background: var(--primary);"></span>
         <p class="home-stats-section__card-metric">End-to-end</p>
         <p class="home-stats-section__card-label">Delivery from concept to launch</p>
@@ -1030,7 +1030,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <div class="home-showcase-section__card-body">
           <p><span class="home-showcase-section__card-tag">Web3 · Cardano</span>
-          </p><h3 class="home-showcase-section__card-title" style="">Archive3</h3>
+          </p><h3 class="home-showcase-section__card-title">Archive3</h3>
           <p class="home-showcase-section__card-desc">A secure on-chain data storage platform built on Cardano, designed to bring trust and transparency to sensitive information management.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Frontend Architecture</li>
@@ -1058,7 +1058,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <div class="home-showcase-section__card-body">
           <p><span class="home-showcase-section__card-tag">Web3 · Crowdfunding</span>
-          </p><h3 class="home-showcase-section__card-title" style="">Web3 bank</h3>
+          </p><h3 class="home-showcase-section__card-title">Web3 bank</h3>
           <p class="home-showcase-section__card-desc">A Web3 crowdfunding platform empowering scientific research through decentralized donations and transparent project discovery.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Donation Flow Design</li>
@@ -1072,7 +1072,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       <!-- Case Study 3: Model and I Hackathon (Stacked, End) -->
       <article class="home-showcase-section__card home-showcase-section__card--tall" data-grid-item-index="2">
         <div class="home-showcase-section__card-media">
-          <img loading="lazy" decoding="async" data-placeholder="home-showcase-image-3" data-context="A vibrant, energetic hackathon submission interface for the Model and I Hackathon 2025 winner, showing a sleek product build with Web3 integration, a dark-themed UI, and a promotional video thumbnail overlay with a play button." width="400" height="300" src="/assets/site-home-showcase-image-3.webp" alt="Model and I Hackathon 2025 winning submission preview showing product build and Web3 integration" data-element-type="image" data-element-id="img-1783698204750-wd2846t0s" style="" fetchpriority="low">
+          <img loading="lazy" decoding="async" data-placeholder="home-showcase-image-3" data-context="A vibrant, energetic hackathon submission interface for the Model and I Hackathon 2025 winner, showing a sleek product build with Web3 integration, a dark-themed UI, and a promotional video thumbnail overlay with a play button." width="400" height="300" src="/assets/site-home-showcase-image-3.webp" alt="Model and I Hackathon 2025 winning submission preview showing product build and Web3 integration" data-element-type="image" data-element-id="img-1783698204750-wd2846t0s" fetchpriority="low">
           <div class="home-showcase-section__card-node-diagram" aria-hidden="true">
             <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
               <circle cx="30" cy="15" r="3" fill="currentColor" opacity="0.6"></circle>
@@ -1086,7 +1086,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <div class="home-showcase-section__card-body">
           <p><span class="home-showcase-section__card-tag">Hackathon · Winner 2025</span>
-          </p><h3 class="home-showcase-section__card-title" style="">Model &amp; I Hackathon</h3>
+          </p><h3 class="home-showcase-section__card-title">Model &amp; I Hackathon</h3>
           <p class="home-showcase-section__card-desc">The winning 2025 submission combining rapid product development, Web3 integration, and compelling promotional video content.</p>
           <ul class="home-showcase-section__card-deliverables">
             <li><span class="home-showcase-section__bullet" aria-hidden="true"></span>Product Build</li>
@@ -1150,7 +1150,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <div class="home-cta-section-links">
           <a href="#" class="home-cta-section-link">GitHub</a>
           <span class="home-cta-section-link-divider" aria-hidden="true" style="color: #1A1A1A !important">·</span>
-          <a href="#" class="home-cta-section-link">LinkedIn</a>
+          <a href="https://linkedin.com/company/benjaminghajiga" class="home-cta-section-link">LinkedIn</a>
           <span class="home-cta-section-link-divider" aria-hidden="true" style="color: #1A1A1A !important">·</span>
           <a href="#" class="home-cta-section-link">Showreel</a>
           <span class="home-cta-section-link-divider" aria-hidden="true" style="color: #1A1A1A !important">·</span>
@@ -1234,34 +1234,32 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         <ul class="footer-contact">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-            <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            <span class="contact-text"><a href="mailto:bghajiga@gmail.com">bghajiga@gmail.com</a></span>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone"></i></span>
-            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            <span class="contact-text"><a href="tel:+2347035319985">+2347035319985</a></span>
           </li>
-          <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="contact-text">[business_address]</span></a></li>
+          <li><a href="https://www.google.com/maps/search/?api=1&amp;query=Abuja%2C%20Nigeria" target="_blank" rel="noopener noreferrer"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="contact-text">Abuja, Nigeria</span></a></li>
         </ul>
       </div>
 
       <!-- Business Hours -->
-      <div class="footer-col footer-hours-col">
+      <div class="footer-col footer-hours-col zappy-hours-hidden" style="display: none">
         <h4>Opening Hours</h4>
-        <ul class="footer-hours">
-          <li><a href="/"><span class="hours-day">Mon–Fri</span> <span class="hours-time">09:00–18:00</span></a></li>
-          <li><a href="/"><span class="hours-day">Sat</span> <span class="hours-time">09:00–13:00</span></a></li>
-          <li><a href="/"><span class="hours-day">Sun</span> <span class="hours-time">Closed</span></a></li>
-        </ul>
+        <ul class="footer-hours"><li><a href="/"><span class="hours-day">Mon–Fri</span> <span class="hours-time">09:00–17:00</span></a></li>
+<li><a href="/"><span class="hours-day">Sat–Sun</span> <span class="hours-time">Closed</span></a></li></ul>
       </div>
 
       <!-- Social Media -->
       <div class="footer-col footer-social-col">
         <h4>Follow Us</h4>
         <div class="footer-social">
-          <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
-          <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
+          <a href="https://facebook.com/benjaminghajiga" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://instagram.com/ben_tech___" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
+          <a href="https://twitter.com/Benjaminghajiga" aria-label="Twitter" data-element-id="element-ai-1783699709689-x8k2m9" data-element-type="social-link"><i class="fab fa-twitter"></i></a>
+          <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true" style="display:none !important;"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
     </div>
@@ -1285,7 +1283,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/+2347035319985" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   
